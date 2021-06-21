@@ -694,3 +694,55 @@ Binding(COMMAND+-,
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-21 21:43:26.444
 !MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.NlAqqdWO => OK
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-21 21:43:56.269
+!MESSAGE Public key authentication requested signature type rsa-sha2-512 but got back ssh-rsa from github.com/13.114.40.48:22 (SSH-2.0-babeld-4cec2db4)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-21 21:46:45.972
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-21 21:46:45.972
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@48eaf38c[org.springframework.tooling.boot.ls:1.25.0.202103111026(id=1014)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-21 21:46:45.973
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-21 21:46:48.853
+!MESSAGE 起動から初期化までの Boot LS 起動時間: 2880ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-21 21:46:49.001
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.uNaqpbLpisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-21 21:46:49.002
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-21 21:46:49.002
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-21 21:46:49.003
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-21 21:46:49.003
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-21 21:46:49.003
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.uNaqpbLp => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-21 21:46:49.004
+!MESSAGE classpath=17 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-21 21:46:49.005
+!MESSAGE buffering callback sts4.classpath.uNaqpbLp JavaWcp false 17
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-21 21:46:49.005
+!MESSAGE executing callback sts4.classpath.uNaqpbLp 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-21 21:46:49.378
+!MESSAGE executing callback sts4.classpath.uNaqpbLp SUCCESS [done]
+
+!ENTRY org.eclipse.core.resources 2 2 2021-06-21 21:48:26.356
+!MESSAGE 保存操作の警告。
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2021-06-21 21:48:26.356
+!MESSAGE 'JavaWcp' のプロジェクト記述ファイル (.project) がありませんでした。 このファイルには、プロジェクトに関する重要な情報が含まれています。 新しいプロジェクト記述ファイルが作成されましたが、プロジェクトに関する情報の一部が破損している可能性があります。
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2021-06-21 21:48:26.357
+!MESSAGE 'サーバー' のプロジェクト記述ファイル (.project) がありませんでした。 このファイルには、プロジェクトに関する重要な情報が含まれています。 新しいプロジェクト記述ファイルが作成されましたが、プロジェクトに関する情報の一部が破損している可能性があります。
