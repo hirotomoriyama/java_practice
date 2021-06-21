@@ -673,3 +673,24 @@ Binding(COMMAND+-,
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-21 21:36:44.851
 !MESSAGE Public key authentication requested signature type rsa-sha2-512 but got back ssh-rsa from github.com/52.192.72.89:22 (SSH-2.0-babeld-4cec2db4)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-06-21 21:43:21.206
+!MESSAGE Public key authentication requested signature type rsa-sha2-512 but got back ssh-rsa from github.com/13.114.40.48:22 (SSH-2.0-babeld-4cec2db4)
+
+!ENTRY mergedoc.encoding 2 0 2021-06-21 21:43:25.913
+!MESSAGE ファイルが見つかりません: /Users/hirotomoriyama/Desktop/wcp/JavaWcp/src/Ready02.java.
+
+!ENTRY mergedoc.encoding 2 0 2021-06-21 21:43:25.914
+!MESSAGE ファイルが見つかりません: /Users/hirotomoriyama/Desktop/wcp/JavaWcp/src/Ready02.java.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-21 21:43:26.441
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.NlAqqdWO
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-21 21:43:26.442
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.NlAqqdWO
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-21 21:43:26.443
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-21 21:43:26.444
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.NlAqqdWO => OK
